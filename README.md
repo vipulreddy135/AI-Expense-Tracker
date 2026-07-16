@@ -131,26 +131,26 @@ npm run dev
 
 ### Login Page
 
-<img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/0bf03e07-3171-49b0-81f1-05973b8f685a" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9783c7ee-43d9-428b-a7db-9fb5fd2ee146" />
 
 ---
 
 ### Dashboard
 
-> Add screenshot here
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f57506c-8578-47f8-a61a-96d4eab3960e" />
 
 ---
 
 ### Transactions
 
-> Add screenshot here
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7cb4d9a6-8b56-4d3d-9642-927c84e3f810" />
+
 
 ---
 
 ### AI Insights
 
-> Add screenshot here
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0488fe27-ae44-4846-b6f9-e307af56cd86" />
 
 ---
 
